@@ -1,0 +1,8 @@
+﻿  CFileManager.cpp
+  CMap.cpp
+  ConsoleApplication19.cpp
+  CReducer.cpp
+C:\cs687Demo\ver1\CSE687_ProjectPhase1\ConsoleApplication19\CReducer.cpp(36,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+C:\cs687Demo\ver1\CSE687_ProjectPhase1\ConsoleApplication19\CFileManager.cpp(43): warning C4715: 'CFileManager::isValidDirectory': not all control paths return a value
+  ConsoleApplication19.vcxproj -> C:\cs687Demo\ver1\CSE687_ProjectPhase1\x64\Debug\ConsoleApplication19.exe
